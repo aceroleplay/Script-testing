@@ -1,4 +1,4 @@
 - NoDriveBy a poder disparar < 50 hmh  para o condutor (feito)
 - Novo job lixeiro que nao seja preciso setjob na base dados https://github.com/SpikE-Odets/esx_garbagecrew_v2 (feito)
 - Apanhar maças job que nao seja preciso setjob na base dado http://www.mediafire.com/folder/gkk5k3gn6dbvu/sadownik
-- Novo job de centro de emprego https://cdn.discordapp.com/attachments/749839474527174686/756225797471338536/widlakjob.rar
+- Novo job de centro de emprego https://cdn.discordapp.com/attachments/749839474527174686/756225797471338536/widlakjob.rar (feito)
